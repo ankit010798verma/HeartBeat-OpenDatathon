@@ -25,7 +25,7 @@ Among about 68,000 adults aged about 40 to 65 in Dataset 1, does the chance of h
 
 1. Clone the repository: `git clone https://github.com/ankit010798verma/HeartBeat-OpenDatathon.git`. The raw files are already in `track-02/data/`. On Google Colab, the first cell of each notebook clones the repository for you, so there is nothing to upload.
 2. Install packages (from `track-02/team/`): `pip install -r requirements.txt`
-3. Run `notebooks/01_cleaning.ipynb`, then `notebooks/02_analysis.ipynb`, top to bottom. Random seeds are fixed, so every run gives the same numbers. Notebook 02 takes a few minutes because of the bootstrap confidence intervals.
+3. Run `notebooks/01_cleaning.ipynb`, then `notebooks/02_analysis.ipynb`, top to bottom. Random seeds are fixed, so every run gives the same numbers. Notebook 02 takes about a minute because of the bootstrap confidence intervals. Last run end to end with Python 3.14, pandas 3.1, statsmodels 0.15, scikit-learn 1.9 and matplotlib 3.11.
 
 ## Files
 
@@ -52,7 +52,7 @@ Among about 68,000 adults aged about 40 to 65 in Dataset 1, does the chance of h
 ## Key Findings
 
 - **Women's odds of CVD rise faster with age than men's.** Each additional 10 years of age was associated with 73% higher odds of CVD in women (OR 1.73, 95% CI 1.67 to 1.79) and 54% higher odds in men (OR 1.54, 95% CI 1.48 to 1.61), after accounting for blood pressure, cholesterol, glucose, BMI and lifestyle. The ratio of these odds ratios was 1.12 (95% CI 1.06 to 1.18), or 1.21 (1.15 to 1.27) without adjustment.
-- **Women start lower and catch up in their late 50s.** At age 50 women had lower odds of CVD than men (OR 0.89, 95% CI 0.86 to 0.92). The rates cross at about age 57 (95% CI 56 to 59), and at 60-65 women's rate is higher (68% vs 65%).
+- **Women start lower and catch up in their late 50s.** At age 50 women had lower odds of CVD than men (OR 0.89, 95% CI 0.86 to 0.92; 0.93, 0.89 to 0.97 after adjusting for risk factors). The rates cross at about age 57 (95% CI 56 to 59), and at 60-65 women's rate is higher (68% vs 65%).
 - **The result is robust.** It held in all nine versions of the analysis (stricter and looser cleaning, rescuing typos, flexible blood pressure and age curves, and more), with ratios from 1.12 to 1.21. Cross-validated AUC was 0.79 for women; age and blood pressure alone reach 0.78.
 - **Globally (country level),** development level was unrelated to women's CVD incidence in 2019 (R² = 0.00) but related to its trend: each 0.1 higher SDI went with a 0.15 percentage point larger yearly decline from 1990 to 2019 (95% CI 0.12 to 0.19, R² = 0.27).
 
