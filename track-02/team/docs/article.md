@@ -2,7 +2,7 @@
 
 **In records from nearly 69,000 adults, women were less likely than men to have heart disease in their 40s but caught up by about age 57. High blood pressure stood out as the clearest warning sign at every age.**
 
-By [Team member names] · OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
+By Masoumah Haidari, Aryana Hou, Sara Sultani and Patrick Verma (Team HeartBeat) · OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
 
 > This article describes a student data analysis. It is not medical advice, a diagnostic tool or clinical guidance.
 
@@ -14,7 +14,7 @@ By [Team member names] · OpenBio 2026 Datathon, Track 2: Cardiovascular Health 
 
 Cardiovascular disease, or CVD, covers diseases of the heart and blood vessels, including heart attacks and strokes. It is the leading cause of death for women, yet it is still often thought of as a man's problem, and women remain under-studied. A [2025 review of more than 1,000 heart trials](https://www.cedars-sinai.org/newsroom/few-women-participate-in-studies-for-common-cardiac-conditions/) found that women made up only about 41% of participants, and fewer than their share of patients in trials of coronary heart disease and stroke.
 
-The years leading up to menopause is a time of rising heart disease risk for women, as hormones, body fat, cholesterol and blood vessels all change. If women's risk really does accelerate in midlife, then *when* women get attention for heart health matters as much as whether they do.
+The years leading up to menopause are a time of rising heart disease risk for women, as hormones, body fat, cholesterol and blood vessels all change. If women's risk really does accelerate in midlife, then *when* women get attention for heart health matters as much as whether they do.
 
 So we asked the question, **does the chance of having CVD rise more steeply with age in women than in men, and does that difference remain once we account for blood pressure, cholesterol, blood sugar, body size and lifestyle?** Along the way we looked at which risk factors matter most for women of the same age, whether those factors carry the same weight before and after 55, and how women's heart disease differs between rich and poor countries.
 
@@ -62,7 +62,7 @@ Figure 3 shows a lesson in how adjustment can change a result. Hollow dots compa
 
 With only age taken into account, very high glucose was linked to about 1.6 times the odds of CVD. Once cholesterol was added, it appeared to lower the odds. However, that does not mean high blood sugar protects the heart. In this data, high glucose and high cholesterol often occur together, so once one is in the model, the two compete to explain the same people. Blood pressure, by contrast, barely changed (about 1.9 times the odds per 10 points of pressure with age alone, 1.8 with everything), meaning its link to CVD does not depend on the other factors.
 
-Blood pressure also carried most of the predictive power. We measured this the AUC, the chance that a model ranks a randomly chosen woman with CVD above one without it (0.5 is a coin flip, 1 is perfect), always testing on women the model had not seen. Age and blood pressure alone scored 0.78; adding everything else only nudged it to 0.79.
+Blood pressure also carried most of the predictive power. We measured this with the AUC, the chance that a model ranks a randomly chosen woman with CVD above one without it (0.5 is a coin flip, 1 is perfect), always testing on women the model had not seen. Age and blood pressure alone scored 0.78; adding everything else only nudged it to 0.79.
 
 ### Do risk factors matter less after 55?
 
@@ -78,7 +78,7 @@ Men showed exactly the same weakening, and a formal test found no difference bet
 
 ### Checking our work
 
-Every analysis involves judgment calls, such as where to draw the line between a real blood pressure reading and a typing error. To make sure our main result did not depend on those calls, we reran it nine different ways (Figure 5) after using sricter and looser cleaning rules, correcting obvious typos instead of removing them, letting blood pressure and age affect risk along curves instead of straight lines, accounting for the bottom blood pressure number, allowing every factor to differ by sex, and leaving out the youngest group.
+Every analysis involves judgment calls, such as where to draw the line between a real blood pressure reading and a typing error. To make sure our main result did not depend on those calls, we reran it nine different ways (Figure 5) using stricter and looser cleaning rules, correcting obvious typos instead of removing them, letting blood pressure and age affect risk along curves instead of straight lines, accounting for the bottom blood pressure number, allowing every factor to differ by sex, and leaving out the youngest group.
 
 ![Chart showing the main result under nine versions of the analysis. Every estimate falls between about 1.12 and 1.21, and every confidence interval stays to the right of 1.](../figures/sensitivity.png)
 
@@ -112,7 +112,7 @@ With more time, we would look for data that follows the same women over many yea
 
 ## Data and Code
 
-- Repository, with notebooks that reproduce every number and figure: [link to your team repository]
+- Repository, with notebooks that reproduce every number and figure: [github.com/ankit010798verma/HeartBeat-OpenDatathon](https://github.com/ankit010798verma/HeartBeat-OpenDatathon/tree/main/track-02/team)
 - [Cardiovascular Disease Dataset](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) (Kaggle)
 - Li et al., *Medicine* (2025), Supplementary Tables S1 and S2: [article on PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC12237364/)
 - [Heart Attack Risk Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset) (Kaggle; synthetic, checked but not used)
@@ -120,7 +120,7 @@ With more time, we would look for data that follows the same women over many yea
 
 ## Acknowledgements
 
-We thank the organizers and mentors of the Harvard Undergraduate OpenBio 2026 Datathon for preparing the data and guides, and the Harvard Undergraduate Data Project for the article guidelines this piece follows. [Add anyone else who helped.]
+We thank the organizers and mentors of the Harvard Undergraduate OpenBio 2026 Datathon for preparing the data and guides, and the Harvard Undergraduate Data Project for the article guidelines this piece follows.
 
 ---
 

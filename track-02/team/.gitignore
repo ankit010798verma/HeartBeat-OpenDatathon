@@ -1,0 +1,13 @@
+# Python and notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credentials and local settings
+.env
+*.key
+
+# OS files
+.DS_Store

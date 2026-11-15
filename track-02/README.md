@@ -1,68 +1,70 @@
-# [Team Name]: Women's Heart Disease Risk Catches Up With Age
+# Track 02: Cardiovascular Health in Women
 
-OpenBio 2026 Datathon, Track 2: Cardiovascular Health in Women
+[![1 Setup](https://img.shields.io/badge/1-Setup-0fe995?style=flat-square)](1-setup.md)
+[![2 The Data](https://img.shields.io/badge/2-The_Data-13deba?style=flat-square)](2-the-data.md)
+[![3 Workflow](https://img.shields.io/badge/3-Workflow-0fe995?style=flat-square)](3-workflow.md)
+[![4 Submit](https://img.shields.io/badge/4-Submit-13deba?style=flat-square)](4-submit.md)
 
-> This project is a student data analysis. It is not medical advice, a diagnostic tool or clinical guidance. Country-level findings from Dataset 3 do not describe individual people.
+## The Challenge
 
-## Team HeartBeat
+Cardiovascular disease (CVD), or disease of the heart and blood vessels, is a leading cause of death for women worldwide. Yet heart disease in women is often under-recognized and under-studied. Symptoms can look different from the "classic" male pattern and women have been under-represented in heart trials. Risk is also shaped by circumstances such as pregnancy, menopause, income and access to care.
 
-Masoumah Haidari
-Aryana Hou
-Sara Sultani
-Patrick Verma 
+This track gives you three datasets that look at the same problem at different scales, from single patients up to whole countries. The central question:
 
-## Research Question
+> What does the data tell us about who is at risk of cardiovascular disease, how that risk differs for women and how individual-level risk factors connect to the global, unequal burden of disease in women?
 
-Among about 68,000 adults aged about 40 to 65 in Dataset 1, does the chance of having cardiovascular disease rise more steeply with age in women than in men, and does that difference remain after accounting for blood pressure, cholesterol, glucose, BMI and lifestyle?
+It is not required to answer all aspects of the question. Your team will:
 
-## Datasets Used
+1. Pick a focused angle from the [starter questions](starter-questions.md).
+2. Clean the data responsibly and log every decision.
+3. Explore the data and build a model that you can defend.
+4. Explain what you found so someone outside your field could understand it.
 
-- [x] Dataset 1: Cardiovascular Disease Dataset (main analysis)
-- [ ] Dataset 2: Heart Attack Risk Prediction Dataset (synthetic). Checked but not used: no model predicts its outcome better than chance (02, appendix)
-- [x] Dataset 3: Global CVD in Women, Tables S1 and S2 (country-level context)
+Judges will prioritize honest and careful work (not just dramatic results).
 
-## How to Run
+## What You Get
 
-1. The raw files are already in `track-02/data/`. Download the repository, and the first cell on Notebook 01 downloads them.
-2. Install packages: `pip install -r requirements.txt`
-3. Run `notebooks/01_cleaning.ipynb`, then `notebooks/02_analysis.ipynb`, top to bottom. Random seeds are fixed, so every run gives the same numbers.
+| Dataset | What it is | Level |
+|---|---|---|
+| 1. Cardiovascular Disease Dataset | Real-world-style clinical records: blood pressure, cholesterol, glucose and lifestyle, with a CVD label | Individual patients |
+| 2. Heart Attack Risk Prediction Dataset | Synthetic (computer-generated) records with diet, stress, sleep, income and country, with a heart-attack-risk label | Individual patients (synthetic) |
+| 3. Global CVD in Women (GBD) | Published tables of CVD rates in women by region and country, 1990 and 2019 | Population |
 
-## Files
+[Understand the data](2-the-data.md) explains each one and what to watch for.
 
-| Path | Contents |
+## The Workflow at a Glance
+
+```
+ Pick a question  ->  Clean and log  ->  Explore  ->  Model
+                                                        |
+                                                        v
+     Submit  <-  Headline visual  <-  Interpret  <-  Check your work
+```
+
+The [analysis workflow](3-workflow.md) walks through each box. The two notebooks in [`team/notebooks/`](team/notebooks) do the coding: [01_cleaning](team/notebooks/01_cleaning.ipynb) and [02_analysis](team/notebooks/02_analysis.ipynb).
+
+## Ground Rules
+
+Every submission must respect these. The [responsible use page](reference/limitations.md) explains each one.
+
+- **Correlation is not causation.** Avoid causal language unless you can justify it.
+- **Synthetic is not real.** Do not present findings from Dataset 2 as clinical evidence.
+- **Countries are not individuals.** Do not use Dataset 3 to make claims about individual women.
+- **Sex is recorded as binary.** Note this limitation and do not overgeneralize.
+- **Not medical advice.** Include a short statement saying so in your deliverables.
+- **Show uncertainty.** Report confidence intervals or variability where you can.
+- **Respect the data licenses** of the original Kaggle pages and the article publisher.
+
+## Everything in This Folder
+
+| Item | What it is |
 |---|---|
-| `notebooks/01_cleaning.ipynb` | Loads and cleans all three datasets, writes the cleaning log |
-| `notebooks/02_analysis.ipynb` | Summary statistics, models, checks, sensitivity analyses and the headline visual |
-| `figures/headline.png` | Headline visual: CVD by age for women and men |
-| `figures/regression_curve.png` | Logistic regression curves by sex (regression graph) |
-| `figures/observed_by_age_band.png` | Observed CVD rate by age group and sex |
-| `figures/risk_factors_by_age.png` | Blood pressure and cholesterol by age and sex |
-| `figures/forest_plot.png` | Odds ratios for each risk factor, women and men side by side |
-| `figures/model_checks.png` | ROC curve and calibration plot |
-| `figures/sensitivity.png` | Main result under nine versions of the analysis |
-| `figures/global_context.png` | Dataset 3: incidence trend vs development level, and deaths per new case by SDI |
-| `docs/cleaning_log.md` | Each cleaning rule and the records affected |
-| `docs/article.md` | Science communication article, following the [HUDP article guide](../../docs/article-guide.md) |
-| `requirements.txt` | Python packages |
-
-## Key Findings
-
-- **Women's odds of CVD rise faster with age than men's.** Each additional 10 years of age was associated with 73% higher odds of CVD in women (OR 1.73, 95% CI 1.67 to 1.79) and 54% higher odds in men (OR 1.54, 95% CI 1.48 to 1.61), after accounting for blood pressure, cholesterol, glucose, BMI and lifestyle. The ratio of these odds ratios was 1.12 (95% CI 1.06 to 1.18), or 1.21 (1.15 to 1.27) without adjustment.
-- **Women start lower and catch up in their late 50s.** At age 50 women had lower odds of CVD than men (OR 0.89, 95% CI 0.86 to 0.92). The rates cross at about age 57 (95% CI 56 to 59), and at 60-65 women's rate is higher (68% vs 65%).
-- **The result is robust.** It held in all nine versions of the analysis (stricter and looser cleaning, rescuing typos, flexible blood pressure and age curves, and more), with ratios from 1.12 to 1.21. Cross-validated AUC was 0.79 for women; age and blood pressure alone reach 0.78.
-- **Globally (country level),** development level was unrelated to women's CVD incidence in 2019 (R² = 0.00) but related to its trend: each 0.1 higher SDI went with a 0.15 percentage point larger yearly decline from 1990 to 2019 (95% CI 0.12 to 0.19, R² = 0.27).
-
-## Limitations
-
-- **Association, not causation.** Dataset 1 records risk factors and CVD at the same visit, so we cannot tell which came first. This likely explains why smoking, alcohol and very high glucose look "protective".
-- **Not a random sample.** About half of the people in Dataset 1 have CVD, far more than in the general population, and the source does not say how or where they were chosen. Percentages describe this dataset only.
-- **No menopause data.** The crossover age fits the timing of menopause, but Dataset 1 cannot test that link.
-- **Cleaning removed a slightly higher-risk group.** The 2% of rows we removed had more CVD (74%) than those kept (50%). Sensitivity analyses that rescue or keep these rows give the same result.
-- **Self-reported lifestyle and few female smokers or drinkers** (under 3% of women), so those estimates are uncertain.
-- **Sex is recorded as binary**, so findings do not extend to people outside those categories.
-- **Ages 39 to 65 only** (just 4 people are younger).
-- **Dataset 3 is country-level** and cannot be linked to individuals (the ecological fallacy).
-
-## Presentation
-
-Video link: [add your unlisted YouTube link]
+| [1-setup.md](1-setup.md) | Open Colab, load the data and set up your team repository |
+| [2-the-data.md](2-the-data.md) | Plain-language guide to all three datasets |
+| [3-workflow.md](3-workflow.md) | Step-by-step analysis walkthrough |
+| [4-submit.md](4-submit.md) | What to hand in and how |
+| [starter-questions.md](starter-questions.md) | Focused angles to choose from |
+| [glossary.md](glossary.md) | Health and statistics terms |
+| [data/](data) | The data files |
+| [team/](team) | Your team's workspace: notebooks, figures, cleaning log and article |
+| [reference/](reference) | Data catalog, citations and responsible use |
