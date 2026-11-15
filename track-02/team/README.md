@@ -58,6 +58,7 @@ Among about 68,000 adults aged about 40 to 65 in Dataset 1, does the chance of h
 
 ## Limitations
 
+- **Different people, not the same people over time.** Each person was seen once, so the age pattern compares younger and older people, not the same women as they age. Generational differences could contribute.
 - **Association, not causation.** Dataset 1 records risk factors and CVD at the same visit, so we cannot tell which came first. This likely explains why smoking, alcohol and very high glucose look "protective".
 - **Not a random sample.** About half of the people in Dataset 1 have CVD, far more than in the general population, and the source does not say how or where they were chosen. Percentages describe this dataset only.
 - **No menopause data.** The crossover age fits the timing of menopause, but Dataset 1 cannot test that link.

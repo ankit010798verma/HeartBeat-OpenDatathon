@@ -36,6 +36,7 @@ Numbers below come from `notebooks/02_analysis.ipynb`. Figures are in `figures/`
 - **What the findings mean for women's cardiovascular health:** Averaged over all ages, women and men look the same. That hides a midlife shift, where women's risk climbs faster and overtakes men's around 57. Blood pressure is the clearest warning sign at every age, and it can be measured and treated.
 - **Limitations:**
   - These are associations measured at a single visit, not causes.
+  - The age pattern compares different people of different ages, not the same women followed over time.
   - The sample is not random, since about half have CVD.
   - There is no menopause or hormone data, so the menopause link is speculation.
   - Smoking and drinking are self-reported, and few women report them.
