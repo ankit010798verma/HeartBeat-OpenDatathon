@@ -1,0 +1,409 @@
+country,sdi_2019,measure,value,year
+Afghanistan,0.343,asir_est,1083.58,1990
+Albania,0.681,asir_est,650.01,1990
+Algeria,0.652,asir_est,1054.04,1990
+American Samoa,0.712,asir_est,626.0,1990
+Andorra,0.894,asir_est,539.58,1990
+Angola,0.47,asir_est,691.89,1990
+Antigua and Barbuda,0.743,asir_est,673.81,1990
+Argentina,0.708,asir_est,610.76,1990
+Armenia,0.689,asir_est,1001.35,1990
+Australia,0.839,asir_est,701.32,1990
+Austria,0.849,asir_est,688.01,1990
+Azerbaijan,0.683,asir_est,938.32,1990
+Bahamas,0.796,asir_est,677.52,1990
+Bahrain,0.751,asir_est,958.7,1990
+Bangladesh,0.483,asir_est,623.48,1990
+Barbados,0.742,asir_est,676.21,1990
+Belarus,0.745,asir_est,934.08,1990
+Belgium,0.851,asir_est,639.77,1990
+Belize,0.603,asir_est,677.01,1990
+Benin,0.352,asir_est,574.25,1990
+Bermuda,0.813,asir_est,590.32,1990
+Bhutan,0.455,asir_est,629.77,1990
+Bolivia,0.566,asir_est,405.77,1990
+Bosnia and Herzegovina,0.718,asir_est,722.14,1990
+Botswana,0.634,asir_est,659.08,1990
+Brazil,0.64,asir_est,557.5,1990
+Brunei Darussalam,0.823,asir_est,750.13,1990
+Bulgaria,0.764,asir_est,889.31,1990
+Burkina Faso,0.257,asir_est,499.74,1990
+Burundi,0.284,asir_est,655.14,1990
+Cabo Verde,0.525,asir_est,501.71,1990
+Cambodia,0.469,asir_est,638.04,1990
+Cameroon,0.49,asir_est,526.11,1990
+Canada,0.873,asir_est,806.95,1990
+Central African Republic,0.274,asir_est,687.54,1990
+Chad,0.238,asir_est,548.02,1990
+Chile,0.759,asir_est,569.88,1990
+China,0.686,asir_est,659.22,1990
+Colombia,0.633,asir_est,517.93,1990
+Comoros,0.455,asir_est,669.21,1990
+Congo,0.568,asir_est,738.38,1990
+Cook Islands,0.764,asir_est,574.04,1990
+Costa Rica,0.68,asir_est,498.43,1990
+Croatia,0.794,asir_est,741.45,1990
+Cuba,0.668,asir_est,696.61,1990
+Cyprus,0.841,asir_est,568.85,1990
+Czechia,0.828,asir_est,882.18,1990
+Cote d'Ivoire,0.408,asir_est,593.69,1990
+North Korea,0.558,asir_est,660.16,1990
+Democratic Republic of the Congo,0.382,asir_est,652.59,1990
+Denmark,0.89,asir_est,770.28,1990
+Djibouti,0.459,asir_est,601.01,1990
+Dominica,0.729,asir_est,679.87,1990
+Dominican Republic,0.592,asir_est,643.48,1990
+Ecuador,0.64,asir_est,366.43,1990
+Egypt,0.658,asir_est,1124.9,1990
+El Salvador,0.573,asir_est,466.49,1990
+Equatorial Guinea,0.685,asir_est,702.77,1990
+Eritrea,0.396,asir_est,613.32,1990
+Estonia,0.835,asir_est,1031.19,1990
+Eswatini,0.577,asir_est,668.58,1990
+Ethiopia,0.343,asir_est,509.55,1990
+Fiji,0.664,asir_est,660.08,1990
+Finland,0.856,asir_est,733.86,1990
+France,0.834,asir_est,575.31,1990
+Gabon,0.656,asir_est,632.65,1990
+Gambia,0.399,asir_est,606.88,1990
+Georgia,0.702,asir_est,1036.39,1990
+Germany,0.898,asir_est,805.78,1990
+Ghana,0.557,asir_est,645.18,1990
+Greece,0.794,asir_est,660.84,1990
+Greenland,0.761,asir_est,922.5,1990
+Grenada,0.669,asir_est,745.89,1990
+Guam,0.813,asir_est,547.38,1990
+Guatemala,0.526,asir_est,501.35,1990
+Guinea,0.325,asir_est,517.88,1990
+Guinea-Bissau,0.355,asir_est,633.6,1990
+Guyana,0.618,asir_est,847.19,1990
+Haiti,0.432,asir_est,805.25,1990
+Honduras,0.496,asir_est,512.76,1990
+Hungary,0.791,asir_est,880.85,1990
+Iceland,0.869,asir_est,603.81,1990
+India,0.566,asir_est,653.63,1990
+Indonesia,0.66,asir_est,620.68,1990
+Iran,0.67,asir_est,1104.12,1990
+Iraq,0.671,asir_est,1125.44,1990
+Ireland,0.867,asir_est,685.73,1990
+Israel,0.803,asir_est,615.27,1990
+Italy,0.801,asir_est,842.33,1990
+Jamaica,0.684,asir_est,664.01,1990
+Japan,0.87,asir_est,684.04,1990
+Jordan,0.731,asir_est,1082.87,1990
+Kazakhstan,0.723,asir_est,984.69,1990
+Kenya,0.508,asir_est,584.16,1990
+Kiribati,0.527,asir_est,714.67,1990
+Kuwait,0.851,asir_est,848.72,1990
+Kyrgyzstan,0.596,asir_est,932.48,1990
+Laos,0.49,asir_est,719.65,1990
+Latvia,0.82,asir_est,907.43,1990
+Lebanon,0.708,asir_est,927.67,1990
+Lesotho,0.507,asir_est,616.47,1990
+Liberia,0.37,asir_est,600.77,1990
+Libya,0.709,asir_est,863.33,1990
+Lithuania,0.843,asir_est,936.9,1990
+Luxembourg,0.895,asir_est,608.16,1990
+Madagascar,0.396,asir_est,671.19,1990
+Malawi,0.384,asir_est,617.87,1990
+Malaysia,0.737,asir_est,662.99,1990
+Maldives,0.562,asir_est,602.53,1990
+Mali,0.263,asir_est,604.15,1990
+Malta,0.801,asir_est,591.44,1990
+Marshall Islands,0.544,asir_est,697.5,1990
+Mauritania,0.496,asir_est,625.66,1990
+Mauritius,0.705,asir_est,635.46,1990
+Mexico,0.649,asir_est,569.91,1990
+Micronesia,0.58,asir_est,692.11,1990
+Monaco,0.902,asir_est,570.13,1990
+Mongolia,0.606,asir_est,1141.4,1990
+Montenegro,0.791,asir_est,747.18,1990
+Morocco,0.548,asir_est,1009.01,1990
+Mozambique,0.307,asir_est,641.98,1990
+Myanmar,0.521,asir_est,593.39,1990
+Namibia,0.612,asir_est,691.81,1990
+Nauru,0.618,asir_est,654.04,1990
+Nepal,0.422,asir_est,570.63,1990
+Netherlands,0.883,asir_est,666.37,1990
+New Zealand,0.84,asir_est,768.67,1990
+Nicaragua,0.517,asir_est,513.03,1990
+Niger,0.162,asir_est,564.13,1990
+Nigeria,0.515,asir_est,561.24,1990
+Niue,0.711,asir_est,592.33,1990
+North Macedonia,0.744,asir_est,787.56,1990
+Northern Mariana Islands,0.771,asir_est,612.27,1990
+Norway,0.913,asir_est,727.67,1990
+Oman,0.783,asir_est,946.42,1990
+Pakistan,0.449,asir_est,779.85,1990
+Palau,0.738,asir_est,567.69,1990
+Palestine,0.588,asir_est,955.26,1990
+Panama,0.686,asir_est,497.26,1990
+Papua New Guinea,0.394,asir_est,630.38,1990
+Paraguay,0.638,asir_est,472.1,1990
+Peru,0.648,asir_est,346.49,1990
+Philippines,0.623,asir_est,645.91,1990
+Poland,0.802,asir_est,725.65,1990
+Portugal,0.743,asir_est,634.22,1990
+Puerto Rico,0.814,asir_est,593.71,1990
+Qatar,0.83,asir_est,877.09,1990
+South Korea,0.878,asir_est,728.41,1990
+Moldova,0.696,asir_est,955.94,1990
+Romania,0.76,asir_est,881.55,1990
+Russia,0.805,asir_est,1018.93,1990
+Rwanda,0.429,asir_est,655.5,1990
+Saint Kitts and Nevis,0.746,asir_est,752.23,1990
+Saint Lucia,0.67,asir_est,776.0,1990
+Saint Vincent and the Grenadines,0.627,asir_est,686.41,1990
+Samoa,0.641,asir_est,692.2,1990
+San Marino,0.884,asir_est,584.94,1990
+Sao Tome and Principe,0.502,asir_est,645.09,1990
+Saudi Arabia,0.805,asir_est,829.83,1990
+Senegal,0.389,asir_est,603.04,1990
+Serbia,0.767,asir_est,907.54,1990
+Seychelles,0.724,asir_est,545.39,1990
+Sierra Leone,0.347,asir_est,636.38,1990
+Singapore,0.861,asir_est,660.15,1990
+Slovakia,0.812,asir_est,788.2,1990
+Slovenia,0.84,asir_est,657.62,1990
+Solomon Islands,0.407,asir_est,716.68,1990
+Somalia,0.081,asir_est,646.36,1990
+South Africa,0.678,asir_est,716.85,1990
+South Sudan,0.363,asir_est,569.93,1990
+Spain,0.767,asir_est,650.58,1990
+Sri Lanka,0.69,asir_est,524.78,1990
+Sudan,0.515,asir_est,1021.01,1990
+Suriname,0.636,asir_est,724.46,1990
+Sweden,0.872,asir_est,670.25,1990
+Switzerland,0.929,asir_est,583.75,1990
+Syria,0.619,asir_est,1021.49,1990
+Taiwan,0.868,asir_est,639.68,1990
+Tajikistan,0.539,asir_est,859.67,1990
+Thailand,0.687,asir_est,552.7,1990
+Timor-Leste,0.514,asir_est,639.69,1990
+Togo,0.417,asir_est,601.23,1990
+Tokelau,0.626,asir_est,625.33,1990
+Tonga,0.636,asir_est,646.65,1990
+Trinidad and Tobago,0.757,asir_est,798.15,1990
+Tunisia,0.672,asir_est,831.26,1990
+Turkey,0.748,asir_est,781.1,1990
+Turkmenistan,0.67,asir_est,996.49,1990
+Tuvalu,0.589,asir_est,636.5,1990
+Uganda,0.404,asir_est,588.03,1990
+Ukraine,0.736,asir_est,1054.38,1990
+United Arab Emirates,0.88,asir_est,1036.85,1990
+United Kingdom,0.847,asir_est,683.82,1990
+Tanzania,0.423,asir_est,548.52,1990
+United States,0.859,asir_est,871.0,1990
+United States Virgin Islands,0.799,asir_est,592.62,1990
+Uruguay,0.697,asir_est,603.37,1990
+Uzbekistan,0.631,asir_est,897.69,1990
+Vanuatu,0.485,asir_est,778.08,1990
+Venezuela,0.607,asir_est,536.01,1990
+Vietnam,0.617,asir_est,533.62,1990
+Yemen,0.412,asir_est,995.0,1990
+Zambia,0.505,asir_est,596.03,1990
+Zimbabwe,0.476,asir_est,596.65,1990
+Afghanistan,0.343,asir_est,1046.52,2019
+Albania,0.681,asir_est,624.32,2019
+Algeria,0.652,asir_est,938.83,2019
+American Samoa,0.712,asir_est,684.16,2019
+Andorra,0.894,asir_est,432.0,2019
+Angola,0.47,asir_est,636.79,2019
+Antigua and Barbuda,0.743,asir_est,640.84,2019
+Argentina,0.708,asir_est,460.87,2019
+Armenia,0.689,asir_est,855.74,2019
+Australia,0.839,asir_est,551.02,2019
+Austria,0.849,asir_est,568.4,2019
+Azerbaijan,0.683,asir_est,1089.01,2019
+Bahamas,0.796,asir_est,660.83,2019
+Bahrain,0.751,asir_est,852.33,2019
+Bangladesh,0.483,asir_est,631.19,2019
+Barbados,0.742,asir_est,671.23,2019
+Belarus,0.745,asir_est,879.54,2019
+Belgium,0.851,asir_est,464.25,2019
+Belize,0.603,asir_est,672.01,2019
+Benin,0.352,asir_est,571.4,2019
+Bermuda,0.813,asir_est,534.63,2019
+Bhutan,0.455,asir_est,576.1,2019
+Bolivia,0.566,asir_est,361.34,2019
+Bosnia and Herzegovina,0.718,asir_est,732.13,2019
+Botswana,0.634,asir_est,649.65,2019
+Brazil,0.64,asir_est,437.36,2019
+Brunei Darussalam,0.823,asir_est,530.29,2019
+Bulgaria,0.764,asir_est,741.38,2019
+Burkina Faso,0.257,asir_est,506.87,2019
+Burundi,0.284,asir_est,577.17,2019
+Cabo Verde,0.525,asir_est,507.78,2019
+Cambodia,0.469,asir_est,583.09,2019
+Cameroon,0.49,asir_est,553.54,2019
+Canada,0.873,asir_est,554.36,2019
+Central African Republic,0.274,asir_est,690.52,2019
+Chad,0.238,asir_est,567.39,2019
+Chile,0.759,asir_est,436.38,2019
+China,0.686,asir_est,667.28,2019
+Colombia,0.633,asir_est,387.57,2019
+Comoros,0.455,asir_est,589.28,2019
+Congo,0.568,asir_est,693.3,2019
+Cook Islands,0.764,asir_est,579.6,2019
+Costa Rica,0.68,asir_est,450.15,2019
+Croatia,0.794,asir_est,596.58,2019
+Cuba,0.668,asir_est,604.6,2019
+Cyprus,0.841,asir_est,437.86,2019
+Czechia,0.828,asir_est,689.89,2019
+Cote d'Ivoire,0.408,asir_est,599.25,2019
+North Korea,0.558,asir_est,693.6,2019
+Democratic Republic of the Congo,0.382,asir_est,616.41,2019
+Denmark,0.89,asir_est,523.73,2019
+Djibouti,0.459,asir_est,576.8,2019
+Dominica,0.729,asir_est,673.04,2019
+Dominican Republic,0.592,asir_est,680.0,2019
+Ecuador,0.64,asir_est,346.58,2019
+Egypt,0.658,asir_est,1226.88,2019
+El Salvador,0.573,asir_est,441.22,2019
+Equatorial Guinea,0.685,asir_est,603.5,2019
+Eritrea,0.396,asir_est,557.75,2019
+Estonia,0.835,asir_est,887.42,2019
+Eswatini,0.577,asir_est,651.29,2019
+Ethiopia,0.343,asir_est,469.24,2019
+Fiji,0.664,asir_est,671.03,2019
+Finland,0.856,asir_est,535.42,2019
+France,0.834,asir_est,420.5,2019
+Gabon,0.656,asir_est,610.57,2019
+Gambia,0.399,asir_est,630.53,2019
+Georgia,0.702,asir_est,846.32,2019
+Germany,0.898,asir_est,503.86,2019
+Ghana,0.557,asir_est,646.78,2019
+Greece,0.794,asir_est,484.55,2019
+Greenland,0.761,asir_est,638.91,2019
+Grenada,0.669,asir_est,717.51,2019
+Guam,0.813,asir_est,595.59,2019
+Guatemala,0.526,asir_est,453.45,2019
+Guinea,0.325,asir_est,557.0,2019
+Guinea-Bissau,0.355,asir_est,639.49,2019
+Guyana,0.618,asir_est,779.41,2019
+Haiti,0.432,asir_est,799.74,2019
+Honduras,0.496,asir_est,494.8,2019
+Hungary,0.791,asir_est,726.19,2019
+Iceland,0.869,asir_est,436.75,2019
+India,0.566,asir_est,650.46,2019
+Indonesia,0.66,asir_est,640.49,2019
+Iran,0.67,asir_est,1033.66,2019
+Iraq,0.671,asir_est,1030.74,2019
+Ireland,0.867,asir_est,468.99,2019
+Israel,0.803,asir_est,434.16,2019
+Italy,0.801,asir_est,646.76,2019
+Jamaica,0.684,asir_est,711.63,2019
+Japan,0.87,asir_est,550.61,2019
+Jordan,0.731,asir_est,950.93,2019
+Kazakhstan,0.723,asir_est,854.01,2019
+Kenya,0.508,asir_est,540.02,2019
+Kiribati,0.527,asir_est,741.49,2019
+Kuwait,0.851,asir_est,844.12,2019
+Kyrgyzstan,0.596,asir_est,871.01,2019
+Laos,0.49,asir_est,642.83,2019
+Latvia,0.82,asir_est,797.46,2019
+Lebanon,0.708,asir_est,898.91,2019
+Lesotho,0.507,asir_est,653.79,2019
+Liberia,0.37,asir_est,596.07,2019
+Libya,0.709,asir_est,929.44,2019
+Lithuania,0.843,asir_est,805.11,2019
+Luxembourg,0.895,asir_est,459.88,2019
+Madagascar,0.396,asir_est,672.53,2019
+Malawi,0.384,asir_est,576.13,2019
+Malaysia,0.737,asir_est,584.32,2019
+Maldives,0.562,asir_est,473.77,2019
+Mali,0.263,asir_est,576.52,2019
+Malta,0.801,asir_est,444.51,2019
+Marshall Islands,0.544,asir_est,719.28,2019
+Mauritania,0.496,asir_est,583.97,2019
+Mauritius,0.705,asir_est,517.8,2019
+Mexico,0.649,asir_est,472.37,2019
+Micronesia,0.58,asir_est,664.88,2019
+Monaco,0.902,asir_est,467.17,2019
+Mongolia,0.606,asir_est,991.03,2019
+Montenegro,0.791,asir_est,755.46,2019
+Morocco,0.548,asir_est,987.65,2019
+Mozambique,0.307,asir_est,647.79,2019
+Myanmar,0.521,asir_est,529.61,2019
+Namibia,0.612,asir_est,594.08,2019
+Nauru,0.618,asir_est,686.14,2019
+Nepal,0.422,asir_est,527.92,2019
+Netherlands,0.883,asir_est,479.1,2019
+New Zealand,0.84,asir_est,551.0,2019
+Nicaragua,0.517,asir_est,476.97,2019
+Niger,0.162,asir_est,556.1,2019
+Nigeria,0.515,asir_est,541.02,2019
+Niue,0.711,asir_est,605.87,2019
+North Macedonia,0.744,asir_est,739.24,2019
+Northern Mariana Islands,0.771,asir_est,602.77,2019
+Norway,0.913,asir_est,541.16,2019
+Oman,0.783,asir_est,993.09,2019
+Pakistan,0.449,asir_est,801.4,2019
+Palau,0.738,asir_est,594.24,2019
+Palestine,0.588,asir_est,946.51,2019
+Panama,0.686,asir_est,446.96,2019
+Papua New Guinea,0.394,asir_est,648.13,2019
+Paraguay,0.638,asir_est,435.91,2019
+Peru,0.648,asir_est,309.06,2019
+Philippines,0.623,asir_est,652.97,2019
+Poland,0.802,asir_est,495.79,2019
+Portugal,0.743,asir_est,387.49,2019
+Puerto Rico,0.814,asir_est,572.97,2019
+Qatar,0.83,asir_est,817.31,2019
+South Korea,0.878,asir_est,397.0,2019
+Moldova,0.696,asir_est,830.08,2019
+Romania,0.76,asir_est,709.49,2019
+Russia,0.805,asir_est,923.88,2019
+Rwanda,0.429,asir_est,527.77,2019
+Saint Kitts and Nevis,0.746,asir_est,655.45,2019
+Saint Lucia,0.67,asir_est,716.4,2019
+Saint Vincent and the Grenadines,0.627,asir_est,697.57,2019
+Samoa,0.641,asir_est,704.22,2019
+San Marino,0.884,asir_est,466.45,2019
+Sao Tome and Principe,0.502,asir_est,676.64,2019
+Saudi Arabia,0.805,asir_est,895.05,2019
+Senegal,0.389,asir_est,583.16,2019
+Serbia,0.767,asir_est,864.28,2019
+Seychelles,0.724,asir_est,533.33,2019
+Sierra Leone,0.347,asir_est,655.27,2019
+Singapore,0.861,asir_est,435.12,2019
+Slovakia,0.812,asir_est,622.4,2019
+Slovenia,0.84,asir_est,576.01,2019
+Solomon Islands,0.407,asir_est,715.75,2019
+Somalia,0.081,asir_est,615.39,2019
+South Africa,0.678,asir_est,649.18,2019
+South Sudan,0.363,asir_est,555.09,2019
+Spain,0.767,asir_est,445.62,2019
+Sri Lanka,0.69,asir_est,490.67,2019
+Sudan,0.515,asir_est,1004.11,2019
+Suriname,0.636,asir_est,740.96,2019
+Sweden,0.872,asir_est,527.58,2019
+Switzerland,0.929,asir_est,438.51,2019
+Syria,0.619,asir_est,1032.99,2019
+Taiwan,0.868,asir_est,518.4,2019
+Tajikistan,0.539,asir_est,958.57,2019
+Thailand,0.687,asir_est,462.68,2019
+Timor-Leste,0.514,asir_est,636.12,2019
+Togo,0.417,asir_est,593.66,2019
+Tokelau,0.626,asir_est,612.0,2019
+Tonga,0.636,asir_est,641.73,2019
+Trinidad and Tobago,0.757,asir_est,722.99,2019
+Tunisia,0.672,asir_est,832.53,2019
+Turkey,0.748,asir_est,646.18,2019
+Turkmenistan,0.67,asir_est,956.42,2019
+Tuvalu,0.589,asir_est,634.76,2019
+Uganda,0.404,asir_est,544.92,2019
+Ukraine,0.736,asir_est,1036.68,2019
+United Arab Emirates,0.88,asir_est,1025.49,2019
+United Kingdom,0.847,asir_est,480.45,2019
+Tanzania,0.423,asir_est,566.13,2019
+United States,0.859,asir_est,626.72,2019
+United States Virgin Islands,0.799,asir_est,595.23,2019
+Uruguay,0.697,asir_est,480.3,2019
+Uzbekistan,0.631,asir_est,1337.38,2019
+Vanuatu,0.485,asir_est,766.71,2019
+Venezuela,0.607,asir_est,439.41,2019
+Vietnam,0.617,asir_est,534.66,2019
+Yemen,0.412,asir_est,986.26,2019
+Zambia,0.505,asir_est,551.19,2019
+Zimbabwe,0.476,asir_est,665.89,2019
