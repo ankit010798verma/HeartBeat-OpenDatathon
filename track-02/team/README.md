@@ -23,9 +23,9 @@ Among about 68,000 adults aged about 40 to 65 in Dataset 1, does the chance of h
 
 ## How to Run
 
-1. Clone the repository: `git clone https://github.com/ankit010798verma/HeartBeat-OpenDatathon.git`. The raw files are already in `track-02/data/`. On Google Colab, the first cell of each notebook clones the repository for you, so there is nothing to upload.
-2. Install packages (from `track-02/team/`): `pip install -r requirements.txt`
-3. Run `notebooks/01_cleaning.ipynb`, then `notebooks/02_analysis.ipynb`, top to bottom. Random seeds are fixed, so every run gives the same numbers. Notebook 02 takes about a minute because of the bootstrap confidence intervals. Last run end to end with Python 3.14, pandas 3.1, statsmodels 0.15, scikit-learn 1.9 and matplotlib 3.11.
+1. Get the repo. On GitHub, click Code → Download ZIP and unzip it, or run git clone https://github.com/ankit010798verma/HeartBeat-OpenDatathon.git. Any location works (Downloads, Desktop, anywhere).
+2. Install the packages: pip install -r track-02/team/requirements.txt
+3. Run the notebooks: open track-02/team/notebooks/01_cleaning.ipynb in Jupyter or VS Code and run it top to bottom, then do the same for 02_analysis.ipynb. Together they take about two minutes.
 
 ## Files
 
