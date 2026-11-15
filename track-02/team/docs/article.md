@@ -14,7 +14,7 @@ By [Team member names] · OpenBio 2026 Datathon, Track 2: Cardiovascular Health 
 
 Cardiovascular disease, or CVD, covers diseases of the heart and blood vessels, including heart attacks and strokes. It is the leading cause of death for women, yet it is still often thought of as a man's problem, and women remain under-studied. A [2025 review of more than 1,000 heart trials](https://www.cedars-sinai.org/newsroom/few-women-participate-in-studies-for-common-cardiac-conditions/) found that women made up only about 41% of participants, and fewer than their share of patients in trials of coronary heart disease and stroke.
 
-Timing is part of the puzzle. The [American Heart Association](https://newsroom.heart.org/news/heart-disease-risk-in-women-increases-leading-up-to-menopause-early-intervention-is-key) describes the years leading up to menopause as a time of rising heart disease risk for women, as hormones, body fat, cholesterol and blood vessels all change. If women's risk really does accelerate in midlife, then *when* women get attention for heart health matters as much as whether they do.
+The years leading up to menopause is a time of rising heart disease risk for women, as hormones, body fat, cholesterol and blood vessels all change. If women's risk really does accelerate in midlife, then *when* women get attention for heart health matters as much as whether they do.
 
 So we asked the question, **does the chance of having CVD rise more steeply with age in women than in men, and does that difference remain once we account for blood pressure, cholesterol, blood sugar, body size and lifestyle?** Along the way we looked at which risk factors matter most for women of the same age, whether those factors carry the same weight before and after 55, and how women's heart disease differs between rich and poor countries.
 
@@ -46,7 +46,7 @@ Before accounting for any risk factors, women's odds rose about 21% faster per d
 
 When we adjusted for the fact that women and men in the data have slightly different age mixes (age standardization), the overall share with CVD was nearly identical at about 49% of women and 50% of men. Women's lower rates when younger and higher rates when older simply cancel out. The same age-standardized comparison showed clear differences in risk factors. Women were less likely than men to have blood pressure of 140 or above (26% against 29%), but more likely to have high cholesterol (26% against 23%) and much more likely to have obesity (30% against 20%).
 
-**Averaged over all ages, women and men look the same. The difference is in when the risk arrives.**
+**Averaged over all ages, women and men look the same but differ in when the risk arrives.**
 
 ### What matters most for women of the same age
 
