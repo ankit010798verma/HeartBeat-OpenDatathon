@@ -1,6 +1,5 @@
 # Team HeartBeat: OpenBio 2026 Datathon, Track 2
-**Women's Heart Disease Risk Catches Up With Age**
-*Masoumah Haidari, Aryana Hou, Sara Sultani, Patrick Verma*
+**Masoumah Haidari, Aryana Hou, Sara Sultani, Patrick Verma**
 
 Our submission is in [`track-02/team/`](track-02/team):
 
